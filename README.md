@@ -15,7 +15,5 @@ Buralar, birlikte çalışmayı, işbirliğini ve öğrenmeyi teşvik eden bir o
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
